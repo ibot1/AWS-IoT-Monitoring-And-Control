@@ -1,2 +1,2 @@
 # End-to-End-Deployment
-Analyzing published sensor readings using Amazon Web Services
+Analyzing published sensor readings using Amazon Web Services through raspberry pi 3
